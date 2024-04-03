@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<StackPane prefHeight="139.0" prefWidth="281.0" style="-fx-background-color: orange;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+    <Label lineSpacing="2.0" text="Welcome to Firebase Authenfication Homework!" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+      <font>
+         <Font name="System Bold Italic" size="16.0" />
+      </font></Label>
+</StackPane>
